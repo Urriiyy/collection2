@@ -19,7 +19,7 @@ fun main() {
 
 }
 
-fun mySuperPrint (list: MutableList<Int>, num: Int){  // функция вывода на печать списка MutableList<Int>
+fun mySuperPrint (list: MutableList<Int>, num: Int){  // функция вывода на печать списка list типа MutableList<Int>
                                                       // с колличеством элементов num
     println("содержимое коллекции:\n")
 
